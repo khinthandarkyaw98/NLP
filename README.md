@@ -1,2 +1,2 @@
 # NLP
-This is just a note of mine and any one is able to use it freely.
+Numpy: https://sebastianraschka.com/blog/2020/numpy-intro.html
