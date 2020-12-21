@@ -10,3 +10,5 @@ Reading Group : https://myanmarnlp.github.io/reading-group/content/1-schedule.ht
 One of the excellent websites for NLP : https://lena-voita.github.io/nlp_course/word_embeddings.html
 
 a good ML website : https://www.javatpoint.com/machine-learning
+
+ML cheatsheet : https://ml-cheatsheet.readthedocs.io/
