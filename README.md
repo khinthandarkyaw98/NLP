@@ -14,3 +14,5 @@ a good ML website : https://www.javatpoint.com/machine-learning
 ML cheatsheet : https://ml-cheatsheet.readthedocs.io/
 
 Beginner Guide to CNN : https://towardsdatascience.com/a-beginners-guide-to-convolutional-neural-networks-cnns-14649dbddce8
+
+ML basic to advanced : https://www.javatpoint.com/machine-learning
