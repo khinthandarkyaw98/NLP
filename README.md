@@ -11,8 +11,10 @@ One of the excellent websites for NLP : https://lena-voita.github.io/nlp_course/
 
 a good ML website : https://www.javatpoint.com/machine-learning
 
+NLP website : https://www.javatpoint.com/nlp
+
 ML cheatsheet : https://ml-cheatsheet.readthedocs.io/
 
 Beginner Guide to CNN : https://towardsdatascience.com/a-beginners-guide-to-convolutional-neural-networks-cnns-14649dbddce8
 
-ML basic to advanced : https://www.javatpoint.com/machine-learning
+
