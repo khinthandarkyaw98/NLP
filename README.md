@@ -13,6 +13,8 @@ a good ML website : https://www.javatpoint.com/machine-learning
 
 NLP website : https://www.javatpoint.com/nlp
 
+Beginner to Advanced Python : https://www.javatpoint.com/python-tutorial
+
 ML cheatsheet : https://ml-cheatsheet.readthedocs.io/
 
 Beginner Guide to CNN : https://towardsdatascience.com/a-beginners-guide-to-convolutional-neural-networks-cnns-14649dbddce8
