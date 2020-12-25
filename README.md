@@ -19,4 +19,4 @@ ML cheatsheet : https://ml-cheatsheet.readthedocs.io/
 
 Beginner Guide to CNN : https://towardsdatascience.com/a-beginners-guide-to-convolutional-neural-networks-cnns-14649dbddce8
 
-
+Difference between softmax and sigmoid : https://dataaspirant.com/difference-between-softmax-function-and-sigmoid-function/
