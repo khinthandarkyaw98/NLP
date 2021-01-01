@@ -11,4 +11,5 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 > Word embedding is useful for analogy reasoning. 
 - Man ----> Woman
 - King ---> ?
+* embedding(Man) - embedding(Woman) = embedding(King) -embedding(?)
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/S2mat/properties-of-word-embeddings).
