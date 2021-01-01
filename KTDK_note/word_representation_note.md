@@ -17,3 +17,8 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 * sim( e(?), e(King) - e(Man) + e(Woman) ) 
 * = sim ( e(w), e(King) - e(Man) + e(Woman) )
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/S2mat/properties-of-word-embeddings).
+
+> Embedding algorithm is learning about embedding matrix. 
+* To get e(j),
+*   Featurized_Vector(i, j)  * One_hot_Encoding( j, k) = embedding(i, k) = e(i,k)
+> For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/K604Z/embedding-matrix).
