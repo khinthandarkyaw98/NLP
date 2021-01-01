@@ -7,3 +7,8 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 
 > Smaller datasets with word embedding can be used together with Transfer Learning( Learned from the larger corpus that will be appiled to the smaller dataset ). 
 For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/qHMK5/using-word-embeddings).
+
+> Word embedding is useful for analogy reasoning. 
+- Man ----> Woman
+- King ---> ?
+For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/S2mat/properties-of-word-embeddings).
