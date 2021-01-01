@@ -12,4 +12,8 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 - Man ----> Woman
 - King ---> ?
 * embedding(Man) - embedding(Woman) = embedding(King) -embedding(?)
+> Let's denote e as embedding.
+> Cosine Similarity
+* sim( e(?), e(King) - e(Man) + e(Woman) ) 
+* = sim ( e(w), e(King) - e(Man) + e(Woman) )
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/S2mat/properties-of-word-embeddings).
