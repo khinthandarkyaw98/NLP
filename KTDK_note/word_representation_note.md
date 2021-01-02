@@ -22,3 +22,6 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 * To get e(j),
 *   Featurized_Vector(i, j)  * One_hot_Encoding( j, k) = embedding(i, k) = e(i,k)
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/K604Z/embedding-matrix).
+
+> It is common to use the last word to predict the target word.
+> For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/APM5s/learning-word-embeddings).
