@@ -29,5 +29,5 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 > #### We can opt for the context word randomly with the avoidance of some frequent words such as 'the', 'a', 'an' and so forth. 
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/APM5s/learning-word-embeddings).
 
-> We can make the above lateset mentioned way easier with the help of " ####Negative Sampling " algorithm which retrives negative k target words with postive 1 target word for each epoch. Hence, the computation cost will be greatly reduced. 
+> We can make the above lateset mentioned way easier with the help of "Negative Sampling" algorithm which retrives negative k target words with postive 1 target word for each epoch. Hence, the computation cost will be greatly reduced. 
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/Iwx0e/negative-sampling).
