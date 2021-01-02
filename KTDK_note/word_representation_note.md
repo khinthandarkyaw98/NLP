@@ -24,4 +24,7 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/K604Z/embedding-matrix).
 
 > It is common to use the last word to predict the target word.
+* Here the problem is
+> ### How do we choose the context word?
+> #### We can opt for the context word randomly with the avoidance of some frequent words such as 'the', 'a', 'an' and so forth. 
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/APM5s/learning-word-embeddings).
