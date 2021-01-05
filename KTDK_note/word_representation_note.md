@@ -45,5 +45,5 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 * we'll get the knowledge of the corresponding word( which word is frequent and useless and which word is neceesary for the later on process).
 * then, average or sum the output and pass it to softmax classifier.
 *however,this approach has a negative impact and produces biased outcomes due to the lack of the word order.
-* But this can be solved using the RNN which will take one word to feed in the NN for each step rather than sweeping the whole phrase at the same time. 
+* But this can be solved using the RNN which will take one word to feed the NN for each step rather than sweeping the whole phrase at the same time. 
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/Jxuhl/sentiment-classification).
