@@ -40,4 +40,8 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/IxDTG/glove-word-vectors).
 
 > Sentiment analysis is telling likes/dilikes from the a piece of text. You don't have much training labels for this process but you can rely on word embeddings.
+* Firstly, take one-hot vector for each word, 
+* and multiply it with the embedding matrix which comes from the word embeddings(featurized map, if I am not mistaken, with some axes, which shows the degree of the word in each axis) , then 
+* we'll get the knowledge of the corresponding word( which word is frequent and useless and which word is neceesary for the later on process).
+* then, average or sum the output and pass it to softmax classifier.
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/Jxuhl/sentiment-classification).
