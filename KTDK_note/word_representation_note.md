@@ -47,3 +47,9 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 *however,this approach has a negative impact and produces biased outcomes due to the lack of the word order.
 * But this can be solved using the RNN which will take one word to feed the NN for each step rather than sweeping the whole phrase at the same time. 
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/Jxuhl/sentiment-classification).
+
+> Machine translation, sequence to sequence!
+* RNN for encoder ( input ), RNN for decoder ( output) 
+> Image Captioning, convolution to sequence!
+* CNN for image ( input ) , reomve the softmax from the common CNN but input the CNN output to the RNN where we will get the corresponding caption ( output)
+> For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/HyEui/basic-models).
