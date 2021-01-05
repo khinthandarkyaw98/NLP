@@ -35,3 +35,6 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 
 > We can make the above lateset mentioned way easier with the help of " #### Negative Sampling" algorithm which retrieves negative k target words with postive 1 target word for each epoch. Hence, the computation cost will be greatly reduced. 
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/Iwx0e/negative-sampling).
+
+> In GloVe algorithm, you'll see frequent words like "the" and so forth with more weight, uncommon word such as "durian" with a little weight.
+> For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/IxDTG/glove-word-vectors).
