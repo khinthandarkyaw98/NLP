@@ -38,3 +38,6 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 
 > In GloVe algorithm, you'll see frequent words like "the" and so forth with more weight, uncommon word such as "durian" with a little weight.
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/IxDTG/glove-word-vectors).
+
+> Sentiment analysis is telling likes/dilikes from the a piece of text. You don't have much training labels for this process but you can rely on word embeddings.
+> For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/Jxuhl/sentiment-classification).
