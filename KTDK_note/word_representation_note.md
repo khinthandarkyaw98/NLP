@@ -58,7 +58,7 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/v2pRn/picking-the-most-likely-sentence).
 
 ### Beam Search
-* Let's see how the process goes from French to English translation.
+* Let's see how the process goes for French to English translation.
 > Step 1: 
 >
 > Put the sentence (French) into the encoder. 
@@ -71,4 +71,9 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 > However, we are interested in the probability of the most likely pair for both y1 and y2; not only y2). 
 > To get this, you can use the following formula. 
 * P( y1, y2 | x ) = P( y1|x ) * P( y2| x, y1 )
+>
+> It keeps on going in this way.
+* Remember!!! 
+> if beam_width = 1;
+>     algorithm = greedy_search_algorithm
 
