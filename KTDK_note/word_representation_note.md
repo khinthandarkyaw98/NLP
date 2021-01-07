@@ -86,4 +86,5 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 * Here we can also a soft approach. Use exponent on the length! But don't set the exponent 0 or 1! You know the reason!
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/AkjG2/refinements-to-beam-search).
 
-
+### Beam Search is an approximate search algorithm. It is a heuristic search algorithm.
+#### It doesn't provide you the exact output like the Depth Frist Search or Breadht First Search does. 
