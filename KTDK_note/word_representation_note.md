@@ -53,3 +53,6 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 > Image Captioning, convolution to sequence!
 * CNN for image ( input ) , reomve the softmax from the common CNN but input the CNN output to the RNN where we will get the corresponding caption ( output)
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/HyEui/basic-models).
+
+> We do not use greedy search algorithm in machine translation because it picks up the best probabiltiy of one word at a time, resulting in poor translation. Therefore, Beam Search, conditional language model, that gives the maximum probabiity of the whole sentence, must be used.
+> For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/v2pRn/picking-the-most-likely-sentence).
