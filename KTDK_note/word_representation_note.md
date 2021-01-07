@@ -92,6 +92,7 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 ### Error Analysis in Beam Search
 
 > Calculate the probabilities of human provided translation P( y* | x ) and machin provided translation P( y^ | x ) using RNN ( encoder-decoder NN ).
+>
 > P(y* | x ) > P( y^ | x ) but Beam Search chose y^ for the output. 
 * there is an error in your Beam Search algorithm.
 > Although y* has the better translation, your RNN predicts that P(y* | x ) < P( y^ | x ) 
