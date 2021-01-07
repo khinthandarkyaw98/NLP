@@ -58,7 +58,7 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/v2pRn/picking-the-most-likely-sentence).
 
 ### Beam Search
-* Let's see how the process goes for French to English translation.
+* Let's see how the process works for French to English translation.
 > Step 1: 
 >
 > Put the sentence (French) into the encoder. 
@@ -74,7 +74,7 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 >
 > It keeps on going in this way.
 * Remember!!! 
-> if beam_width = 1;
+> if beam_width = 1:
 >     algorithm = greedy_search_algorithm
 
 > Here we try to maximize P (  y1, y2, ....., y(n) | x ) 
@@ -88,3 +88,12 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 
 ### Beam Search is an approximate search algorithm. It is a heuristic search algorithm.
 #### It doesn't provide you the exact output like the Depth Frist Search or Breadht First Search does. 
+
+### Error Analysis in Beam Search
+
+> Calculate the probabilities of human provided translation P( y* | x ) and machin provided translation P( y^ | x ) using RNN ( encoder-decoder NN ).
+> P(y* | x ) > P( y^ | x ) but Beam Search chose y^ for the output. 
+* there is an error in your Beam Search algorithm.
+> Although y* has the better translation, your RNN predicts that P(y* | x ) < P( y^ | x ) 
+* there is an error in your RNN; Try regularisation or more deep NN!
+> For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/UfvRl/error-analysis-in-beam-search).
