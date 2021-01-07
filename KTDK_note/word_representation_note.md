@@ -77,3 +77,13 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 > if beam_width = 1;
 >     algorithm = greedy_search_algorithm
 
+> Here we try to maximize P (  y1, y2, ....., y(n) | x ) 
+* However, this is the multiplication of probabilities in which each probability is less than one, resulting in a tiny output. Hence, we'll get the short translation which is more likely to get wrong. 
+> To solove this, we use log !
+> However, there is also the case producing very large output!
+> So we need to average the output!
+> Divide the log(Probaility) by the lenght of the phrase!
+* Here we can also a soft approach. Use exponent on the length! But don't set the exponent 0 or 1! You know the reason!
+> For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/AkjG2/refinements-to-beam-search).
+
+
