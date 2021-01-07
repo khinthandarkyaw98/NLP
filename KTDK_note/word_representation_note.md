@@ -56,3 +56,19 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 
 > We do not use greedy search algorithm in machine translation because it picks up the best probabiltiy of one word at a time, resulting in poor translation. Therefore, Beam Search, conditional language model, that gives the maximum probabiity of the whole sentence, must be used.
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/v2pRn/picking-the-most-likely-sentence).
+
+### Beam Search
+* Let's see how the process goes from French to English translation.
+> Step 1: 
+>
+> Put the sentence (French) into the encoder. 
+> Decoder : Pick the first most likely words from the English vocabulary ( the number of most likely words can be decided by the Beam Width).
+>
+> Step 2:
+>
+> The second most likely words can be decided from the first most likely word. 
+> This is denoted as P( y2 | x, y1 )
+> However, we are interested in the probability of the most likely pair for both y1 and y2; not only y2). 
+> To get this, you can use the following formula. 
+* P( y1, y2 | x ) = P( y1|x ) * P( y2| x, y1 )
+
