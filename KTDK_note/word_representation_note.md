@@ -98,3 +98,6 @@ For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-m
 > Although y* has the better translation, your RNN predicts that P(y* | x ) < P( y^ | x ) 
 * there is an error in your RNN; Try regularisation or more deep NN!
 > For more details, [check this out](https://www.coursera.org/learn/nlp-sequence-models/lecture/UfvRl/error-analysis-in-beam-search).
+
+### Machine Translation PDF 
+>[check this out](https://web.stanford.edu/~jurafsky/slp3/11.pdf).
