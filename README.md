@@ -22,3 +22,5 @@ Beginner Guide to CNN : https://towardsdatascience.com/a-beginners-guide-to-conv
 Difference between softmax and sigmoid : https://dataaspirant.com/difference-between-softmax-function-and-sigmoid-function/
 
 LSTM explanation :https://ahmetozlu93.medium.com/long-short-term-memory-lstm-networks-in-a-nutshell-363cd470ccac
+
+What is a Transformer? : https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04
