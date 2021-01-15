@@ -24,3 +24,5 @@ Difference between softmax and sigmoid : https://dataaspirant.com/difference-bet
 LSTM explanation :https://ahmetozlu93.medium.com/long-short-term-memory-lstm-networks-in-a-nutshell-363cd470ccac
 
 What is a Transformer? : https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04
+
+A GREAT NLP Textbook : https://web.stanford.edu/~jurafsky/slp3/
