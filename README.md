@@ -25,4 +25,7 @@ LSTM explanation :https://ahmetozlu93.medium.com/long-short-term-memory-lstm-net
 
 What is a Transformer? : https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04
 
+Beam Search : https://medium.com/@dhartidhami/beam-search-in-seq2seq-model-7606d55b21a5
+
 A GREAT NLP Textbook : https://web.stanford.edu/~jurafsky/slp3/
+
